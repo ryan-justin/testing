@@ -1,8 +1,5 @@
-# testing
+Hello World
 
-testing123
-g
-sddsa
-asdsad
+Testing 123
 
-aa
+cout << "Hello" <<endl;
